@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/rajnilguha/UPX/movies_project/Reccomendation_Engine/target/scala-2.11/recommendation-engine_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendationEngine$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajnilguha/UPX/movies_project/Reccomendation_Engine/target/scala-2.11/classes/RecommendationEngine$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendationEngine$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajnilguha/UPX/movies_project/Reccomendation_Engine/target/scala-2.11/classes/RecommendationEngine$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendationEngine$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajnilguha/UPX/movies_project/Reccomendation_Engine/target/scala-2.11/classes/RecommendationEngine$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendationEngine$RatingsClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajnilguha/UPX/movies_project/Reccomendation_Engine/target/scala-2.11/classes/RecommendationEngine$RatingsClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendationEngine$RatingsClass$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajnilguha/UPX/movies_project/Reccomendation_Engine/target/scala-2.11/classes/RecommendationEngine$RatingsClass$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendationEngine.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajnilguha/UPX/movies_project/Reccomendation_Engine/target/scala-2.11/classes/RecommendationEngine.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendationEngine$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajnilguha/UPX/movies_project/Reccomendation_Engine/target/scala-2.11/classes/RecommendationEngine$$anonfun$2.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
